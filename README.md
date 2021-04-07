@@ -1,5 +1,5 @@
-# recommendation_model
-PyCharm can be used to run this file locally.
+# recommendation_model <br/>
+PyCharm can be used to run this file locally. <br/>
 Run the following command to install scikit-surprise 1.1.1
  -> !pip install surprise
  Dataset contains item wise ratings provided various friends of the user.
